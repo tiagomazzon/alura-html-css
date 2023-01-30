@@ -92,6 +92,8 @@
 }
 
 @media(min-width: 1440px) {
+    /* Categorias */
+
     .categorias {
         display: grid;
         grid-template-areas:
